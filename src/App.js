@@ -1,9 +1,10 @@
 import React from "react";
+import "./index.css";
 
 // Feature One
 function App() {
   return (
-    <div>
+    <div className="grid-container">
       <header>
         <a href="/">Shopping Cart</a>
       </header>
